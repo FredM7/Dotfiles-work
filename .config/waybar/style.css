@@ -114,7 +114,6 @@ button:hover {
 #pulseaudio,
 #wireplumber,
 #custom-media,
-#tray,
 #mode,
 #idle_inhibitor,
 #scratchpad,
@@ -122,6 +121,15 @@ button:hover {
 #mpd {
     padding: 0 10px;
     color: #ffffff;
+}
+
+#tray {
+    padding: 0 10px;
+    color: #ffffff;
+}
+
+#bluetooth {
+    padding: 0 10px;
 }
 
 #window,
@@ -200,10 +208,12 @@ label:focus {
 }
 
 #memory {
+    padding-top: 4px;
     background-color: #9b59b6;
 }
 
 #disk {
+    padding-top: 4px;
     background-color: #964B00;
 }
 
@@ -252,6 +262,14 @@ label:focus {
     background-color: #ffa000;
 }
 
+
+#custom-wlogout {
+    color: white;
+    font-size: 16px;
+    padding-right: 15px;
+    padding-left: 10px;
+}
+
 #temperature {
     background-color: #f0932b;
 }
@@ -260,7 +278,7 @@ label:focus {
     background-color: #eb4d4b;
 }
 
-#tray {
+#tray, #bluetooth {
     background-color: #2980b9;
 }
 
