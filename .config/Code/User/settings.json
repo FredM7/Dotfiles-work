@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Droid Sans Mono', monospace, 'EnvyCodeR Nerd Font'",
+    "todo-tree.ripgrep.ripgrep": "/usr/bin/rg",
+    "editor.stickyScroll.enabled": false
+}

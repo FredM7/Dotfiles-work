@@ -1,14 +1,14 @@
 # Dotfiles
 
-#### Basic Dotfiles for Work
+#### Fred's Work Dotfiles
 
 ## Stow
 
 > It's very important to note that this `Dotfiles` direcotry must be in your $HOME directory. Otherwise stow will just not do anything.
 
-We use GNU Stow to manage our dotfiles.
+I use GNU Stow to manage my dotfiles.
 
-If you don't have it already, install it. We use Arch, BTW.
+If you don't have it already, install it. I use Arch, BTW.
 
 ```
 sudo pacman -Sy stow
